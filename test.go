@@ -8,6 +8,10 @@ import (
 func main() {
 
 	fmt.Println("Start App")
+	fmt.Println("1")
+	fmt.Println("2")
+
+	fmt.Println("7-feature")
 	fmt.Println("4-main")
 	fmt.Println("5-main")
 
